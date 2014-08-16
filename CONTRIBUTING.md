@@ -31,4 +31,4 @@ We have to be conservative with the core game. This means that some modification
  - Compatibility improvements
  - "Under the hood" enhancements
  - Small changes that don't have an impact on the core gameplay
- - Small change that will hopefully publish my forked version of 2048
+ - Small change that will hopefully publish my grape forked version of 2048
